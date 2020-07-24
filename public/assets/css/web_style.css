@@ -1,0 +1,45 @@
+.header-3 .logo{
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.product-price{
+	/*color: red;*/
+	font-weight: 500;
+}
+
+.product-label.label-jap{
+	color: red;
+	background-color: white;
+}
+
+.breadcrumb-nav{
+	border-bottom: none;
+}
+
+.product-cat a{
+	/*color: #007bff;*/
+	font-weight: 500;
+}
+
+.product-main-image img{
+	margin: auto;
+	width: 75%;
+}
+
+.details-filter-row label{
+	width: 120px;
+	font-weight: 500;
+}
+
+.details-filter-row{
+	margin-bottom: 1rem;
+}
+
+.product-price{
+	margin-bottom: 1rem;
+}
+
+.product-details-footer{
+	margin-top: 4rem;
+}
